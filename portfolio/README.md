@@ -1,5 +1,6 @@
-# villenabassi.github.io
-This Public Repository is just for fun. I will be adding some web projects here! **Just Keep Swimming** :)
+# villenabassi.github.io/Portfolio
+-This Public Repository is just for fun. I will be adding some web projects here! **Just Keep Swimming** :)
+-This is my Portfolio Folder where will showcase my skills
 
 
 # Patch Notes
